@@ -10,7 +10,7 @@ function make_figures()
 %   Fig07_maps          diameter-circularity maps by morphology class
 %   Fig08_morphology    morphology class composition
 %   Fig10_eds           EDS metallic proportions and remainder (Table 5)
-%   Fig11_xrd           XRD patterns of powders and bulk samples (raw scans)
+%   Fig11_xrd           XRD patterns of the powder samples (raw scans)
 %   Fig12_xrd_shift     XRD peak shifts and displacement-corrected lattice parameter
 %   Fig13_flow          funnel flow times by zone and job
 %   Fig14_mpm_maps      exported melt-pool monitoring maps on one colour scale
