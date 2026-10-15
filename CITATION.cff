@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Dataset: Variation in Inconel 718 powder properties by collection location and reuse cycle in laser powder bed fusion"
+version: 1.0.0
+date-released: 2026-10-15
+doi: 10.5281/zenodo.23383351
+license: CC-BY-4.0
+repository-code: https://github.com/M-Nouioua/IN718-powder-reuse-by-location
+url: https://doi.org/10.5281/zenodo.23383351
+keywords:
+  - laser powder bed fusion
+  - Inconel 718
+  - powder reuse
+  - spatter
+  - particle morphology
+  - powder characterisation
+  - X-ray diffraction
+  - energy-dispersive X-ray spectroscopy
+  - melt-pool monitoring
+authors:
+  - family-names: Chekalil
+    given-names: Ismail
+    affiliation: "Interdisciplinary Research Center for Intelligent Manufacturing and Robotics, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+  - family-names: Swaminathan
+    given-names: Vasanth
+    affiliation: "Interdisciplinary Research Center for Intelligent Manufacturing and Robotics, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+  - family-names: Nouioua
+    given-names: Mourad
+    affiliation: "Interdisciplinary Research Center for Intelligent Manufacturing and Robotics, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+  - family-names: Khan
+    given-names: Raja Muhammad Awais
+    affiliation: "Interdisciplinary Research Center for Intelligent Manufacturing and Robotics, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+  - family-names: Arif
+    given-names: Abul Fazal M.
+    affiliation: "Interdisciplinary Research Center for Intelligent Manufacturing and Robotics and Department of Mechanical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+references:
+  - type: software
+    title: "PowderAnnotator: an open-source, foundation-model-assisted tool for SEM-based morphometric analysis and quality scoring of additive-manufacturing feedstock powders"
+    doi: 10.5281/zenodo.20628158
+    url: https://doi.org/10.5281/zenodo.20628158
+    authors:
+      - family-names: Nouioua
+        given-names: Mourad
+  - type: article
+    title: "Quantitative SEM morphometry for monitoring laser powder-bed-fusion metal-powder feedstock"
+    journal: Materials Today Communications
+    volume: 55
+    year: 2026
+    start: 115825
+    doi: 10.1016/j.mtcomm.2026.115825
+    authors:
+      - family-names: Nouioua
+        given-names: Mourad
+      - family-names: Chekalil
+        given-names: Ismail
+      - name: Imran
+      - family-names: Swaminathan
+        given-names: Vasanth
+      - family-names: Khan
+        given-names: Raja Muhammad Awais
+      - family-names: Arif
+        given-names: Abul Fazal M.

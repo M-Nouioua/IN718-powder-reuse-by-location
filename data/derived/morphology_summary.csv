@@ -1,0 +1,5 @@
+condition,n,D10_um,D50_um,D90_um,span,circularity_median,pct_circularity_below_0.8,elongation_median,convexity_median,spherical_pct
+Virgin,494,19.688,27.582,44.168,0.888,0.877,17.611,1.056,0.978,82.794
+"Zone 1, reuse 0",385,17.350,26.558,44.375,1.018,0.853,30.130,1.266,0.976,58.961
+"Zone 4, reuse 5",315,18.878,29.986,47.810,0.965,0.817,44.762,1.344,0.970,24.444
+"Zone 4, reuse 6",414,15.921,24.887,45.231,1.178,0.833,34.783,1.271,0.969,54.348

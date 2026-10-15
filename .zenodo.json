@@ -1,0 +1,21 @@
+{
+  "upload_type": "dataset",
+  "title": "Dataset: Variation in Inconel 718 powder properties by collection location and reuse cycle in laser powder bed fusion",
+  "description": "<p>Measurement data from a 13-job laser powder bed fusion campaign on an SLM 280 system in which one 100 kg batch of gas-atomised Inconel 718 powder was reused for eight cycles and sampled at five fixed locations: the recoater side (Zone 1), three positions in the build chamber along the shielding-gas flow (Zones 2 to 4) and the sieve reject (Zone 5).</p><p>Contents: raw X-ray diffraction scans (Rigaku MiniFlex, Cu K-alpha; .rasx, .csv and instrument reports) of nine powder samples; energy-dispersive X-ray spectroscopy element tables of twelve zone and cycle combinations; four SEM fields (x150) with particle-by-particle contour annotations in six morphology classes and the derived per-particle equivalent diameter, circularity, elongation and convexity; SEM micrographs (x150 and x1000) of the five collection zones at several reuse cycles; Hall, Carney and Gustavsson funnel flow times; exported melt-pool monitoring maps of one layer at reuse 0, 1, 7 and 8 and the emission statistics read from them; Vickers microhardness of parts built at reuse 0 to 8; and the MATLAB script that generates the data figures of the associated article.</p><p>The particle annotations were produced with PowderAnnotator (https://doi.org/10.5281/zenodo.20628158).</p>",
+  "creators": [
+    {"name": "Chekalil, Ismail", "affiliation": "King Fahd University of Petroleum and Minerals"},
+    {"name": "Swaminathan, Vasanth", "affiliation": "King Fahd University of Petroleum and Minerals"},
+    {"name": "Nouioua, Mourad", "affiliation": "King Fahd University of Petroleum and Minerals"},
+    {"name": "Khan, Raja Muhammad Awais", "affiliation": "King Fahd University of Petroleum and Minerals"},
+    {"name": "Arif, Abul Fazal M.", "affiliation": "King Fahd University of Petroleum and Minerals"}
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["laser powder bed fusion", "Inconel 718", "powder reuse", "spatter", "particle morphology", "powder characterisation", "X-ray diffraction", "energy-dispersive X-ray spectroscopy", "melt-pool monitoring"],
+  "language": "eng",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.20628158", "relation": "references", "resource_type": "software"},
+    {"identifier": "10.1016/j.mtcomm.2026.115825", "relation": "references", "resource_type": "publication-article"}
+  ]
+}
